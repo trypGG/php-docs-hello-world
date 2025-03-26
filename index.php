@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World! 21051392 Brayan Candia";
+echo "Hola a todos y todas, que tengan un excelente día 21051392";
